@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067537816998",
+    "firebase_url": "https://applicaro-51dca.firebaseio.com",
+    "project_id": "applicaro-51dca",
+    "storage_bucket": "applicaro-51dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067537816998:android:bc1258e06e89355d",
+        "android_client_info": {
+          "package_name": "com.example.applicaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067537816998-ktr729j8ib1sa4inupvtj95o54lekd73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applicaro",
+            "certificate_hash": "f728cd3085de9fbc09ccdbadea52b7c69c58a667"
+          }
+        },
+        {
+          "client_id": "1067537816998-p9dj6so2nmt38epvannenk1obvhoppba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOkGpwEOiw4WHlz3JGTs2KQJ4v7wyz8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067537816998-p9dj6so2nmt38epvannenk1obvhoppba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
